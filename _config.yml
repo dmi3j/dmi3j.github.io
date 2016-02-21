@@ -1,0 +1,61 @@
+# Site wide configuration
+
+title:				Dmitry Beloborodov
+locale:				en_US
+url:				http://dmi3j.github.io
+description:		"Dmitry's Beloborodov Homepage"
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+analytics :
+  provider : google
+  google : 
+      tracking_id : "UA-41748370-1"
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# Site owner
+owner:
+  name: Dmitry Beloborodov
+  avatar: dmi3j.jpg
+  bio: "iOS Developer"
+  email: dmi3j@me.com
+  disqus-shortname: 
+  twitter: dmi3j
+  facebook: dmi3j
+  google:
+    plus: DmitryBeloborodovFromRiga
+    analytics: UA-41748370-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: dmi3j
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: dmi3j
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
