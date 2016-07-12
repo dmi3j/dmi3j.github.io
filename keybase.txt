@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/dmi3j
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dmi3j.github.io
+  * I am dmi3j (https://keybase.io/dmi3j) on keybase.
+  * I have a public key with fingerprint EFA3 3100 6224 0B87 B1FE  7C4A AC94 0B32 8BA1 99BD
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e116ac8939a85483bd89a6eeeeb9c2ec3e3ca6e38e66e976233d26ea4d59a8ee0a",
+            "fingerprint": "efa3310062240b87b1fe7c4aac940b328ba199bd",
+            "host": "keybase.io",
+            "key_id": "ac940b328ba199bd",
+            "kid": "0101e116ac8939a85483bd89a6eeeeb9c2ec3e3ca6e38e66e976233d26ea4d59a8ee0a",
+            "uid": "00d3548b10a78123b33eb85029a15f19",
+            "username": "dmi3j"
+        },
+        "service": {
+            "hostname": "dmi3j.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1468315183,
+    "expire_in": 157680000,
+    "prev": "4ca9bb0854eac216908cf62a657177a14e1e368f71c0170f1928e11b66fd1b8c",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBRRGF5LDY0uFJlRRA3lS7LNmbM7c2YMiuqlqC0yWAtrO2fmzDqt
+u7OXcb0sKnQjumxFligmoRGYENLFtyLL7m4SJSFhCkaQ2ENFWpbUmS7QQ4/9L4f/
+/7/vO///8XfPmOrITlu3bajwy6rAlrTHXfVlDu+BzpUJjphaJackuAD9+dBSjcYs
+X8DQOIXjAQ8oACJWkQxljNwuBImGZCxSFkRWBapCClWWQ0RFkcqSKECoCSLFLs3N
+GJTymMvndCPkp9Fw1AhZTJbqGELA86IguHiCJAJ0KqkujFWZ5VBABANZJhojlpgx
+m8GGIzhGnYbJaizx/RzvH/j/PHfZLzleg0yCAB5LCAiQQEgJcvOCjIFbB7INjNFo
+CAcpQ2tBA+7lqvM5VoobKrVdtdf4u+30G1ZJGfm1TzhqWqZqlrJmiWWFY4pNtirD
+NrqcEt9vHR8xQhrzkTHiNBozzBCnAIZULcMWBi4RQeAGCOZztCJsRKnPsBFuSUQ8
+C/sfGmeSLhXLhPDMFIpVAYgyj1RdFLDoloAkYeCigEIR6RJQeSDxbD8BMTOJKOoa
+IEjl7M0iIZNTJDYm9jPJmOEPYassSrnq27eK0x1p2Y7MjCn2fTmys2b/ubreTdMm
+51Rk7Kt5/mD0cHJqx0xluDX1pKA98h2fyukebFq+KqHlRuN1w6kz3o3xeJJ7vae4
+/UvrDbrmdMrb9q6y7WR6/5yn76Z3prW6kONaxsjVo8EtOwfRxt2Lzgr3nXe8uUeq
+8rcXFz7UP9Ue6j/WF2npeLM1c+jrpgX9PYGmWTVXdxUcX+ZMdV0vGtv8bMOjDTmL
+/a+uOQ88+tT5YnNHxeq24JW1fUWjNeCjP6/xzOdEy8GLtZGshpcNVfzkh5sn7s0f
+r7t07qwH3H2rDLyfmPDPPT96ecf4es/SEc+KiW+z189YmLrRm7c/3jOQ2ei5EDym
+1JU2Ny+ZddhUk8n62nlKevlY+ZQfx7pFQw==
+=DHsS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dmi3j
+
+==================================================================
+
