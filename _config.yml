@@ -18,7 +18,7 @@ gems:
 analytics :
   provider : google
   google : 
-      tracking_id : "UA-41748370-1"
+      tracking_id : "UA-88427577-1"
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -35,17 +35,11 @@ owner:
   disqus-shortname: 
   twitter: dmi3j
   facebook: dmi3j
-  google:
-    plus: DmitryBeloborodovFromRiga
-    analytics: UA-41748370-1
-    verify: 
-    ad-client: 
-    ad-slot: 
   bing-verify: 
   github: dmi3j
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  stackoverflow: 740556/dmi3j
   linkedin: dmi3j
-  instagram: #username
+  instagram: dmi3j
   lastfm: #username
   tumblr: #username
   pinterest: #username
